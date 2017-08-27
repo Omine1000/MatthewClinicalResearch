@@ -1,0 +1,22 @@
+.navbar-brand{
+  color: #FFFFFF;
+  text-emphasis-color: #FFFFFF;
+}
+#projects_color{
+  color: #FFFFFF;
+  text-emphasis-color: #FFFFFF;
+}
+#polls_color{
+  color: #FFFFFF;
+  text-emphasis-color: #FFFFFF;
+}
+.navbar .navbar-brand:hover{
+  color: #FFFFFF;
+}
+#home_color{
+  color: #FFFFFF;
+  text-emphasis-color: #FFFFFF;
+}
+#navbar_color_wow{
+  color: #000000;
+}
